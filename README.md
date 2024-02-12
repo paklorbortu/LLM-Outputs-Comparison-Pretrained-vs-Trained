@@ -1,4 +1,4 @@
-#Comparion of outputs of a pre-trained Large Language Model with a trained Large Language Model under an IT domain.
+Comparion of outputs of a pre-trained Large Language Model with a trained Large Language Model under an IT domain.
 This repository contains files and screenshots of the outputs of pre-trained and trained Llama2 model. The comparison focuses on the text generation capabilities, domain knowledge and concision of the models. 
 
 **Below are the steps for taken for this project**. 
