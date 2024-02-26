@@ -6,11 +6,11 @@ Pre-trained Model Evaluation
 
 --Deploy the Llama2 model on AWS Sagemaker.
 
---Evaluate the pre-trained Llama2 text generation Large Language Model for IT domain knowledge.
+--Evaluate the pre-trained Llama2 text generation Large Language Model for finance domain knowledge.
 
 Fine-tuning the Large Language Model
 
---Fine-tune the Large Language Model with IT domain dataset.
+--Fine-tune the Large Language Model with finance domain dataset.
 
 Evaluate the fine-tuned Llama2 Large Language Model
 
